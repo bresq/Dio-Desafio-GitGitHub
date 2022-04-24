@@ -1,0 +1,10 @@
+Para clonar um repositório feito no GitHub ao Git local:
+- Copiar código url ou ssh e utilizar no Git com o comando - git add. ou -A
+- Após clonar esse repositório as alterações feitas dentro de pastas devem ser commitadas da seguinte forma -
+$ git commit -m "" (entre aspas deve ser utilizada uma mensagem coerente com a ação que está sendo feita)
+$ git push origin main (envia para o repositório remoto GITHUB)
+
+Comandos essenciais:
+- Git status - nos diz por meio de um status se está tudo ok ou se algo deve ser commitado
+- Git ls - lista arquivos
+- ctrl + l - limpa a tela
