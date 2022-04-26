@@ -17,3 +17,17 @@ FTP - SSH - SMTP - DNS - HTTPS
 
 ------------
 
+PRINCIPAIS LINGUAGENS
+ 
+- HTML
+- CSS
+- Javascript (JQuery, AJAX,..)
+- PHP
+- .NET
+- ASP 
+- Java
+- Ruby (on Rails)
+- Phython
+- Perls
+- C/C++/C#
+
