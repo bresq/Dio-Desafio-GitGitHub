@@ -1,0 +1,19 @@
+TCP x UDP
+
+- UDP
+rápido, não confiável, livestream
+(envia dados mas não tem retorno de quem está recebendo)
+
+-TCP
+voltado a conexão, handshake, integridade ordem dos dados,
+app de mensagens de texto
+(conversas entre dispositivos e tem resposta de quem ou não
+está recebendo)
+
+PORTAS - ports
+
+As portas são por onde dados irão chegar e sair
+FTP - SSH - SMTP - DNS - HTTPS
+
+------------
+
